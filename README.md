@@ -3,7 +3,7 @@ elCollide
 
 Detect if two elements are colliding.
 
-![Screenshot](https://github.com/jnbdz/Element.serializeArea/raw/master/collide.png)
+![Screenshot](https://github.com/jnbdz/elCollide/raw/master/collide.png)
 
 How to use
 ----------
