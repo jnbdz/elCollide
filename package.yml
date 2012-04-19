@@ -1,5 +1,6 @@
-name: elCollide
+name: Element.elCollide
 author: jnbdz
 category: Utilities
-tags: [collide, collision, detect, element]
-current: 0.1
+tags: [collide, collision, overlap, detect, check, element]
+demo: http://jsfiddle.net/jnbdz/uYvrF/
+current: 0.2

@@ -1,7 +1,7 @@
-elCollide
+Element.elCollide
 ===========
 
-Detect if two elements are colliding.
+Check if two elements are colliding.
 
 ![Screenshot](https://github.com/jnbdz/elCollide/raw/master/collide.png)
 
