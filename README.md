@@ -1,4 +1,4 @@
-Element.elCollide
+Element.collide
 ===========
 
 Check if two elements are colliding.
