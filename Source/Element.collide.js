@@ -12,7 +12,7 @@ requires:
  - core/1.4:   '*'
 
 provides:
-  - Element.elCollide
+  - Element.collide
 ...
 */
 
